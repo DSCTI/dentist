@@ -1,4 +1,0 @@
-dentist
-=======
-
-dentist
